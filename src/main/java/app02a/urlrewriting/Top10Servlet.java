@@ -1,4 +1,4 @@
-package app02a;
+package app02a.urlrewriting;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
